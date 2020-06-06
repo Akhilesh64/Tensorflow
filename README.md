@@ -1,2 +1,2 @@
 # Tensorflow
-My undergoing work and learning on tensorflow. 
+My ongoing work and learning on tensorflow. 
