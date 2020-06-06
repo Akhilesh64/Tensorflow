@@ -1,4 +1,4 @@
-#
+# MNIST Classification
 The MNIST Handwritten Digit is a dataset for evaluating machine learning and 
 deep learning models on the handwritten digit classification.
 It is a dataset of 60,000 small square 28×28 pixel grayscale images of handwritten 
